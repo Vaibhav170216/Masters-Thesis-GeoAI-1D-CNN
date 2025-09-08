@@ -22,7 +22,7 @@ The study takes an image composite of Sentinel-2 data combined for a few years f
 
 After performing the classification with all the models, the results showed that the ResNeXt model performed better than the other models with the F1 score of 0.90. Ultimately, this study contributes to optimizing land-use planning and natural resource management strategies by providing an understanding of the predictive capabilities of Earth Engine and CNNs with increased accuracy.
 
-Keywords: LULC, Meerut, Classification, 1D-CNN, Deep Learning, Transfer Learning, GEE, Sentinel-2, Github
+Keywords: _LULC, Meerut, Classification, 1D-CNN, Deep Learning, Transfer Learning, GEE, Sentinel-2, Github_
 
 ---------------------------------------------------------------------------------------------------------
 
