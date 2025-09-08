@@ -26,6 +26,61 @@ Keywords: LULC, Meerut, Classification, 1D-CNN, Deep Learning, Transfer Learning
 
 ---------------------------------------------------------------------------------------------------------
 
+## Chapter Overview
+
+
+### Chapter 1 : Introduction
+
+*   General Overview.
+
+*   Description iof the Pre-trained models used. 
+
+*   Evaluation metrics used for comparison.
+
+*   Main objectives of the project.
+
+
+### Chapter 2: Literature Review
+
+*   Details of the previous work and their review.
+
+
+### Chapter 3: Study Area and Data
+
+*   Study area of the project.
+
+*   Data used incluing satellite data, pre-trained models and shapefile for the study area.
+
+
+### Chapter 4: Methodology
+
+*   Genreal workflow for the project.
+
+*   Preprocessing steps used for creating the data including Data Collection, Filetring Date and Cloud Cover, performing Band Median, Addition of several Spectral Indices.
+
+*   Final Classification of the pre-trained models:
+
+*   Simple custom model architecture.
+*   ResNet Model Architecture.
+*   DenseNet Model Architecture.
+*   ResNeXt Model Architecture.
+*   SeNet Model Architecture.
+
+
+### Chapter 5: Results and Discussion
+
+*   Evaluation of the classification using evaluation metrics like Accuracy, Precision, Recall and F1-score.
+
+*   A separate class-wise evaluation of all models for each class namely Agriculture Croplands or Vegetation, Builtup Urban, Builtup Rural, Agriclture Plants, Forest, Bareen Lands and Water.
+
+*   Discussion on the overall project and also a focus on two scenarios in detail which highlights the core of this project.
+
+
+### Chapter 5: Summary
+
+*   A brief conclusion on the overall project, its limitations and future scope for reasearch.
+
+
 ### Contact
 
 *   vaibnag11@gmail.com
