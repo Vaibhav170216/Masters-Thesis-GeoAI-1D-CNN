@@ -12,6 +12,7 @@ Master Thesis: Comparative study of Deep Learning algorithms for Land Use Land C
 
 ---------------------------------------------------------------------------------------------------------
 
+
 ## Abstract
 
 This study presents a comparative analysis of Land Use and Land Cover (LULC) classification models combining both Google Earth Engine (EE) and deep learning approaches. Google Earth Engine, a cloud-based geospatial analysis platform, is employed for its capability to process and analyze large-scale remote sensing datasets and deep learning techniques such as 1D Convolutional Neural Networks (CNNs) are applied for their ability to automatically extract hierarchical features from complex spatial data. 
@@ -23,6 +24,7 @@ The study takes an image composite of Sentinel-2 data combined for a few years f
 After performing the classification with all the models, the results showed that the ResNeXt model performed better than the other models with the F1 score of 0.90. Ultimately, this study contributes to optimizing land-use planning and natural resource management strategies by providing an understanding of the predictive capabilities of Earth Engine and CNNs with increased accuracy.
 
 Keywords: _LULC, Meerut, Classification, 1D-CNN, Deep Learning, Transfer Learning, GEE, Sentinel-2, Github_
+
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -79,6 +81,9 @@ Keywords: _LULC, Meerut, Classification, 1D-CNN, Deep Learning, Transfer Learnin
 ### Chapter 5: Summary
 
 *   A brief conclusion on the overall project, its limitations and future scope for reasearch.
+
+
+---------------------------------------------------------------------------------------------------------
 
 
 ### Contact
